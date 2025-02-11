@@ -14,4 +14,4 @@ There are two data sets in this project, Control Group and Test Group, which con
 ### Thank you Kaggle.com for providing the dataset, which can be found here https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset?resource=download
 
 ### Necessary Libraries
-```python, pandas as pd, from statsmodels.stats.proportion import proportions_ztest, numpy as np
+python, pandas as pd, from statsmodels.stats.proportion import proportions_ztest, numpy as np
